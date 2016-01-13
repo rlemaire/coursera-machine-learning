@@ -1,0 +1,7 @@
+*.zip
+*.gl
+.idea
+*.iml
+.ipynb_checkpoints
+*data
+*.csv
